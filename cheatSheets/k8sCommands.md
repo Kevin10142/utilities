@@ -10,7 +10,7 @@ kubectl login
 
 ### list pods
 ```
-kubectil config get-contexts
+kubectl config get-contexts
 ```
 
 ### use context
